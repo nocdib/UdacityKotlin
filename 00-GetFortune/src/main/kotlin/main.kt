@@ -4,6 +4,12 @@ import okhttp3.Request
 import okio.IOException
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 
+/*
+This is an independent experiment based on the Fortune Cookie quiz exercise
+from lesson 3 video 7. It sends a GET request to an API that returns a random
+fortune. The user can choose to quit or get another fortune.
+*/
+
 fun main(args: Array<String>) {
    var exit: Boolean = false
    // Keep returning fortunes until the user enters 'q' to quit
