@@ -1,3 +1,9 @@
+/*
+Read input from the user and suggest an activity for them to do base on their
+mood, the weather, and the outdoor temperature. Makes use of user input,
+when-statements, and return-when statements.
+ */
+
 val moods: Array<String> = arrayOf("happy", "sad", "angry")
 val conditions: Array<String> = arrayOf("sunny", "cloudy", "rainy", "snowy")
 

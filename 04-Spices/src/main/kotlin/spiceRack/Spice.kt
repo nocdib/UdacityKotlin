@@ -1,0 +1,4 @@
+package spiceRack
+
+class Spice {
+}
