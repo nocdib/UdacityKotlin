@@ -1,7 +1,7 @@
 package spiceRack
 
 class SimpleSpice {
-    val name: String = "curry"
+    val name: String = "Curry"
     val spiciness: String = "mild"
     val heat: Int
         get() = when(spiciness) {
