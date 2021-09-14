@@ -2,11 +2,11 @@ package spices
 
 fun main(args: Array<String>){
     println("Ninja Spice.")
-    var curry = Curry()
+    var curry = Curry("yellow curry", "5")
 
 }
 
-abstract class Spice(var name: String, var spiciness: String = "mild") {
+abstract class Spice(val name: String, val spiciness: String = "mild", color: SpiceColor) : SpiceColor by color {
     internal val heat: Int
         get() = when(spiciness) {
             "neutral" -> 2
@@ -22,20 +22,25 @@ abstract class Spice(var name: String, var spiciness: String = "mild") {
     }
 
     abstract fun prepareSpice()
-}
 
-class Curry(spiciness: String = "mild"): Spice("Curry", spiciness), Grinder {
+}
+class Curry(name: String, spiciness: String, color: SpiceColor = YellowSpiceColor) : Spice(name, spiciness, color), Grinder {
+    override fun grind() {
+    }
 
     override fun prepareSpice() {
         grind()
     }
-
-    override fun grind() {
-        println("Grinding curry...")
-    }
-
 }
 
 interface Grinder {
     fun grind()
+}
+
+interface SpiceColor {
+    val color: String
+}
+
+object YellowSpiceColor : SpiceColor {
+    override val color = "Yellow"
 }
