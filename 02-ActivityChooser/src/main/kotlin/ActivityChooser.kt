@@ -1,3 +1,6 @@
+import kotlin.math.roundToInt
+import kotlin.math.truncate
+
 /*
 Read input from the user and suggest an activity for them to do base on their
 mood, the weather, and the outdoor temperature. Makes use of user input,
@@ -8,8 +11,11 @@ val moods: Array<String> = arrayOf("happy", "sad", "angry")
 val conditions: Array<String> = arrayOf("sunny", "cloudy", "rainy", "snowy")
 
 fun main(args: Array<String>) {
+
+
     // Get the user's mood
     print("\nWhat is your mood today? ")
+    var i: Int = readLine()?.toInt()!!
     var mood: String = readLine().toString()?.trim()
     mood = if (moods.contains(mood.lowercase())) mood.lowercase() else moods.first()
     // Get today's weather
