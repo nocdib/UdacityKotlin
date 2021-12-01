@@ -1,0 +1,1 @@
+C:\code\UdacityKotlin\00-GetFortune\build\classes\kotlin\main\MainKt.class

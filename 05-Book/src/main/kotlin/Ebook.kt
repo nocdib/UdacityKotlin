@@ -1,3 +1,5 @@
+package Book
+
 class Ebook(override var title: String, override var author: String, var format:String = "text", var page: Int = 0): Book(title, author, page) {
 
     private var wordCount: Int = 0

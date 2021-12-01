@@ -1,3 +1,5 @@
+package Book
+
 // This exercise tests inheritance
 
 fun main(args: Array<String>) {

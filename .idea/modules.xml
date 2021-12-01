@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/01-FortuneCookie.iml" filepath="$PROJECT_DIR$/.idea/modules/01-FortuneCookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/01-FortuneCookie.main.iml" filepath="$PROJECT_DIR$/.idea/modules/01-FortuneCookie.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/01-FortuneCookie.test.iml" filepath="$PROJECT_DIR$/.idea/modules/01-FortuneCookie.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/02-ActivityChooser.iml" filepath="$PROJECT_DIR$/.idea/modules/02-ActivityChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/03-RollDice.iml" filepath="$PROJECT_DIR$/.idea/modules/03-RollDice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/03-RollDice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/03-RollDice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/03-RollDice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/03-RollDice.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/04-Spices.iml" filepath="$PROJECT_DIR$/.idea/modules/04-Spices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/04-Spices.main.iml" filepath="$PROJECT_DIR$/.idea/modules/04-Spices.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/04-Spices.test.iml" filepath="$PROJECT_DIR$/.idea/modules/04-Spices.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/05-Book.iml" filepath="$PROJECT_DIR$/.idea/modules/05-Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06-Spice.iml" filepath="$PROJECT_DIR$/.idea/modules/06-Spice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06-Spice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/06-Spice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06-Spice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/06-Spice.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/07-Pairs.iml" filepath="$PROJECT_DIR$/.idea/modules/07-Pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled.main.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled.test.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+C:\code\UdacityKotlin\03-RollDice\build\classes\kotlin\main\RollDiceKt$main$rollDice$1.class;C:\code\UdacityKotlin\03-RollDice\build\classes\kotlin\main\RollDiceKt$main$rollDice2$1.class;C:\code\UdacityKotlin\03-RollDice\build\classes\kotlin\main\RollDiceKt.class
