@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="GradleMigrationSettings" migrationVersion="1" />
+=======
+>>>>>>> 9c677d935100b973d3e09eac3d6cf91bdc3b04b1
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
         <option name="gradleHome" value="$USER_HOME$/Gradle/gradle-7.0.2" />
+=======
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../Gradle/gradle-7.0.2" />
+>>>>>>> 9c677d935100b973d3e09eac3d6cf91bdc3b04b1
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />

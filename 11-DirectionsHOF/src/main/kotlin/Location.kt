@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 class Location(private var width: Int, private var height: Int) {
+=======
+class Location(private var width: Int = 4, private var height: Int = 4) {
+>>>>>>> 9c677d935100b973d3e09eac3d6cf91bdc3b04b1
 
     init {
         width = if (width < 1) 4 else width
